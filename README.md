@@ -14,7 +14,7 @@ Maximun investment: NO
 Tokens ERC23 will be distributed to the same address that Ethers were sent. *PLEASE* you need use MyEtherWallet and then configure it. Add new personalized token to receive the tokens—after ICO. Then cutomize as we told before.
 
 
-https://www.erc23.org/
+www.erc23.us
 
 
-support@erc23.org
+support@erc23.us
